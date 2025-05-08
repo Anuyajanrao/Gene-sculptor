@@ -1,0 +1,25 @@
+import streamlit as st
+pandas
+matplotlib
+seaborn 
+plotly.express
+plotly.graph_objects 
+Bio 
+SeqIO
+Bio.SeqIO.QualityIO 
+tempfile
+subprocess
+logomaker
+collections  
+Counter
+numpy
+altair 
+base64
+mimetypes
+PIL 
+os
+re
+io
+gzip
+fpdf 
+io
