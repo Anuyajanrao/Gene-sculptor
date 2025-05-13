@@ -6,6 +6,7 @@ import seaborn as sns
 import plotly.express as px
 import plotly.io as pio
 import plotly.graph_objects as go
+import kaleido
 from Bio import SeqIO
 from Bio.SeqIO.QualityIO import FastqGeneralIterator
 import tempfile
