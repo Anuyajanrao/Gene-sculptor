@@ -1268,6 +1268,10 @@ elif st.session_state.current_section == "User Guide":
       <li>🔍 <b>Per-Base Quality Scores:</b> Line plot showing the average quality score at each position in the reads. Also includes per-base nucleotide composition.</li>
       <li>🔄 <b>Sequence Duplication Levels:</b> Bar chart showing how many sequences appear multiple times. Also lists the top 10 most frequent sequences.</li>
       <li>🔗 <b>Adapter Content:</b> Simple check for the presence of common Illumina adapter sequences.</li>
+      <li>📌 <b>Overrepresented Sequences:</b> Lists sequences that appear more frequently than expected. Useful for identifying contaminants like adapters or barcodes.</li>
+      <li>🧩 <b>K-mer Content:</b> Shows unusual patterns in k-mer frequencies that may indicate bias in sample prep or sequencing.</li>
+      <li>❓ <b>N Content per Base:</b> Displays the proportion of 'N' (undetermined) bases at each position. High levels may indicate sequencing problems.</li>
+      <li>🎯 <b>Base Composition Bias Heatmap:</b> Heatmap showing nucleotide bias across positions in reads, indicating potential issues in sequencing chemistry.</li>
     </ul>
 
     <p style="font-size:16px; color:#333333; margin-top:20px;">
