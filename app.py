@@ -1356,7 +1356,7 @@ elif st.session_state.current_section == "About Creator":
                 <span style="font-weight: bold; color: #007bff;">Libraries Used:</span> Biopython, pandas, matplotlib, seaborn, plotly, logomaker, numpy, altair, fpdf, etc.
             </p>
             <p style="font-size: 1.1em; line-height: 1.6;">
-                <span style="font-weight: bold; color: #007bff;">Source Code:</span> Currently not publicly available.
+                <span style="font-weight: bold; color: #007bff;">Source Code:</span> Currently available on GitHub (https://github.com/Anuyajanrao/Gene-sculptor/blob/main/app.py).
             </p>
         </div>
     </div>
